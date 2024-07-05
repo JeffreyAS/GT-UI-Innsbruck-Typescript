@@ -1,0 +1,5 @@
+{
+    "cucumberautocomplete.syncfeatures": "behavior/features/**/**/*.feature",
+    "cucumberautocomplete.steps": "behavior/steps/**/**/*.ts",
+    "typescript.tsdk": "../node_modules/typescript/lib"
+}
