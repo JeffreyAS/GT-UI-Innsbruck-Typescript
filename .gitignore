@@ -1,10 +1,5 @@
 node_modules
 api
-gradle
 repository
-build.gradle
-gradle.properties
-gradlew
-gradlew.bat
 reports
 dist
